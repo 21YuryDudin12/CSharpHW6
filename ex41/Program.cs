@@ -1,4 +1,7 @@
-﻿void FillArray(int[] array, int M)
+﻿//Пользователь вводит с клавиатуры M чисел. 
+//Посчитайте, сколько чисел больше 0 ввёл пользователь.
+
+void FillArray(int[] array, int M)
 {
     for (int i = 0; i < M; i++)
     {
